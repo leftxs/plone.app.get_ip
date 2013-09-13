@@ -1,4 +1,4 @@
-plone.app-get_ip
+plone.app.get_ip
 ================
 
 show ip with whiptail
